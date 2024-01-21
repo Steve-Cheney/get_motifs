@@ -57,7 +57,4 @@ Then, run:
 
 - Ensure that the correct number of arguments is provided.
 - Motifs in the `<motif_file>` should be listed one per line.
-
-RBIF100
-Week 2 Assignment
-Steve Cheney
+- 
