@@ -16,7 +16,7 @@ chmod +x get_motifs.sh
 ```
 Then, run:
 ```bash
-./motif_counter.sh <motif_file> <target_fasta_file>
+<path_to_script>/motif_counter.sh <motif_file> <target_fasta_file>
 ```
 
 ### Arguments
